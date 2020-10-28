@@ -5,4 +5,4 @@ Usage:
 
 docker build .
 
-docker run -it -p 8080:8080 <IMAGE_ID>
+docker run -p 8080:8080 <IMAGE_ID>
